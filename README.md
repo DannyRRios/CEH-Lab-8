@@ -1,4 +1,4 @@
-<h1>CEH Lab 8</h1>
+<h1>Sniffing - CEH</h1>
 
 
 ![Image Alt](https://github.com/DannyRRios/CEH-Lab-8/blob/6a4bcfb930969a3d8964e901bd39d7596732676c/Lab8-1.png)
